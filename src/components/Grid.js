@@ -3,7 +3,19 @@ import "../styles/Grid.css";
 
 function Grid() {
   return (
-    <div class="grid">
+    <div className="grid">
+      <Card />
+      <Card />
+      <Card />
+      <Card />
+      <Card />
+      <Card />
+      <Card />
+      <Card />
+      <Card />
+      <Card />
+      <Card />
+      <Card />
       <Card />
       <Card />
       <Card />

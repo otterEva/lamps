@@ -1,0 +1,57 @@
+.authen {
+  margin-top: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.code-btn {
+  background-color: rgba(52, 72, 255, 1);
+  color: white;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border: 0;
+  border-radius: 10px;
+  width: 270px;
+  cursor: pointer;
+}
+
+.wrapper {
+  background-color: white;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  border-radius: 20px;
+  border-style: solid;
+  border-color: rgba(52, 72, 255, 1);
+  height: 200px;
+}
+
+.input {
+  border-style: solid;
+  border-color: rgba(52, 72, 255, 1);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 15px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  width: 250px;
+}
+
+.email-p {
+  margin-bottom: 20px;
+  font-size: 20px;
+  font-weight: 700;
+}
+
+.send-p {
+  margin-bottom: 20px;
+  font-size: 15px;
+  font-weight: 100;
+  text-align: center;
+}
