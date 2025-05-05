@@ -6,7 +6,7 @@ function MakeOrder() {
       <div>
         <input className="input-data" type="text" placeholder="Телефон" />
       </div>
-      <div>
+      <div className="input-div">
         <input className="input-data" type="text" placeholder="Адрес" />
       </div>
       <div>

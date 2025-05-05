@@ -42,7 +42,8 @@
 .change-amount-btn {
   background-color: rgba(52, 72, 255, 1);
   color: white;
-  padding: 10px;
+  width: 30px;
+  height: 30px;
   border: none;
   border-radius: 50%;
   font-size: 12px;

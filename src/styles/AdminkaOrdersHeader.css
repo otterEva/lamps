@@ -1,0 +1,12 @@
+.admin-orders-header-div {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+  place-items: center;
+  background-color: white;
+  border: 0;
+  border-radius: 10px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-weight: 600;
+  font-size: 17px;
+}

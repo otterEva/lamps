@@ -14,9 +14,9 @@ function KorzinaCard() {
         <p>Лучшая в мире лампочка</p>
       </div>
       <div className="card-amount-div">
-        <button className="change-amount-btn">+1</button>
+        <button className="change-amount-btn">-</button>
         <p className="amount-p">3</p>
-        <button className="change-amount-btn">-1</button>
+        <button className="change-amount-btn">+</button>
       </div>
     </div>
   );
